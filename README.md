@@ -39,7 +39,7 @@
 or
 * /add @channelusername - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+<i>NOTE : You can get your channel ID from @SDFGroupManagerBot </i>
 
 
 * /del channelid  -  Delinks channel from group
@@ -59,7 +59,7 @@ or
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/SDFBots)
+## Any bugs or errors or suggestions, report at [SDF Bot's](https://telegram.dog/SDFBots)
 
 
 ## Installation
@@ -80,13 +80,13 @@ python3 main.py
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
+* APP_ID        - From my.telegram.org (or @apiidhashbot)
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org (or @apiidhashbot)
 
 * TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://telegram.dog/tgsessionstringbot)
 
-* AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/SDFGroupManagerBot) by using /id command
+* AUTH_USERS  - ID of users that can use the bot commands. Get from [SDFGroupManagerBot](https://telegram.dog/SDFGroupManagerBot) by using /id command
 
 * DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
 
